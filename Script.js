@@ -7,6 +7,7 @@ const humidity = document.getElementById('humidity');
 const wind_speed = document.getElementById('wind-speed');
 const locationNotFound = document.querySelector('.location');
 const weather_body = document.querySelector('.weather-body');
+const my name = usama;
 
 
 
